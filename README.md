@@ -3,6 +3,7 @@
 
 1. [Hello World](helloWorld.java)
 2. [Fibonacci](fib1.java)
+3. [Inner Class](Demo.java)
 
 ----------------------------------------------------------------------------------------------
 
