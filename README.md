@@ -1,5 +1,5 @@
 # Java-prog
-## Python Practice Programs(DAP lab)
+## Java Practice Programs(OOPS lab)
 
 1. [Hello World](helloWorld.java)
 2. [Fibonacci](fib1.java)
