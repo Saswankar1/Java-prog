@@ -5,6 +5,7 @@
 2. [Fibonacci](fib1.java)
 3. [Inner Class](Demo.java)
 4. [Multiple Exception Handling](Catch.java)
+5. [Matrix Multiplication](MatrixEx.java)
 
 ----------------------------------------------------------------------------------------------
 
