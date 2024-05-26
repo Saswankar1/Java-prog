@@ -6,6 +6,7 @@
 3. [Inner Class](Demo.java)
 4. [Multiple Exception Handling](Catch.java)
 5. [Matrix Multiplication](MatrixEx.java)
+6. [Selection Sort](Selection_sort.java)
 
 ----------------------------------------------------------------------------------------------
 
