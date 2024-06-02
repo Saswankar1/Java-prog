@@ -9,7 +9,7 @@
 6. [Selection Sort](Selection_sort.java)
 7. [Constructor Overlaoding](Constructor_Overloading.java)
 8. [Calculator](Calculator.java)
-
+9. [Prime Number](Prime.java)
 ----------------------------------------------------------------------------------------------
 
 ## How to Contribute
