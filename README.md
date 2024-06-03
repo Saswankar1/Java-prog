@@ -10,6 +10,7 @@
 7. [Constructor Overlaoding](Constructor_Overloading.java)
 8. [Calculator](Calculator.java)
 9. [Prime Number](Prime.java)
+10. [Even Odd](Even_Odd.java)
 ----------------------------------------------------------------------------------------------
 
 ## How to Contribute
